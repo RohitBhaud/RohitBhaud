@@ -7,7 +7,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="250" height="250" /></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="300" height="300" /></p>
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
@@ -46,3 +46,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitbhaud&show_icons=true&locale=en" alt="rohitbhaud" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitbhaud&" alt="rohitbhaud" /></p>
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
